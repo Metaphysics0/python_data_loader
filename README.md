@@ -5,4 +5,5 @@
 ### Technologies Used:
 
 - Pandas
-- [Covid](https://ourworldindata.org/coronavirus-source-data)
+- MySQL Workbench
+- [Covid Data Set](https://ourworldindata.org/coronavirus-source-data)

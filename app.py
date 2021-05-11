@@ -70,7 +70,7 @@ class LoadData:
 
 
 # Example of creating an instance
-DataObj = LoadData(constants.DB_CONFIG, './covid-data.csv',
+DataObj = LoadData(constants.DB_CONFIG, './tmp/covid-data.csv',
                    'Main', 'city-hive-assignment')
 
 # Example of using the instance

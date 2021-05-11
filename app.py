@@ -69,8 +69,10 @@ class LoadData:
             print('An error occurred')
 
 
+# Example of creating an instance
 DataObj = LoadData(constants.DB_CONFIG, './covid-data.csv',
                    'Main', 'city-hive-assignment')
 
+# Example of using the instance
 if __name__ in '__main__':
     DataObj.load_data_into_db()
